@@ -21,7 +21,7 @@ Ce script permet d'installer Odoo 18 sur un serveur Ubuntu 24.04 avec toutes les
 
 1. Clonez ce dépôt sur votre serveur :
    ```bash
-   git clone https://github.com/Mahjoub-sami/odoo-install-script.git
+   git clone https://github.com/Mahjoub-sami/install_odoo18.git
    cd odoo-install-script
 
 Pour utiliser ce script :
